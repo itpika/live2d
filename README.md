@@ -1,8 +1,6 @@
 # Live2D Widget
 
-```
-本仓库根据[https://github.com/stevenjoezhang/live2d-widget]改动而来，原项目部分模型皮肤展示不全，此项目还加入几个新的角色模型。
-```
+本仓库根据[stevenjoezhang](https://github.com/stevenjoezhang/live2d-widget)改动而来，原项目部分模型皮肤展示不全，此项目还加入几个新的角色模型。
 
 <!-- ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg) -->
@@ -17,7 +15,7 @@ Add Live2D widget to web page. Compatible with PJAX.
 
 ## Demo
 
-在[pika的博客](https://itpika.com)的可查看效果。
+在[pika的博客](https://itpika.com)的可查看效果。鼠标点击人物时，部分人物带有语言互动。
 
 <img src="assets/demo1.png" width="280">
 <img src="assets/demo2.png" width="280">

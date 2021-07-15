@@ -1,14 +1,29 @@
 {
   "models": [
-    "epsilon2.1",
     [
       "haru01",
       "haru02"
     ],
     "izumi",
-    "Potion-Maker/Pio",
     "Potion-Maker/Tia",
-    "bilibili-live/22",
+    "Potion-Maker/Pio",
+    "epsilon2.1",
+    [
+      "bilibili-live/keino/1",
+      "bilibili-live/keino/3",
+      "bilibili-live/keino/3",
+      "bilibili-live/keino/4",
+      "bilibili-live/keino/5",
+      "bilibili-live/keino/6",
+      "bilibili-live/keino/7",
+      "bilibili-live/keino/8",
+      "bilibili-live/keino/9",
+      "bilibili-live/keino/10",
+      "bilibili-live/keino/11",
+      "bilibili-live/keino/12",
+      "bilibili-live/keino/13",
+      "bilibili-live/keino/14"
+    ],
     "bilibili-live/33",
     [
         "ShizukuTalk/shizuku-48",
@@ -38,12 +53,12 @@
     ]
   ],
   "messages": [
-      " 坐对面桌的【Epsilon】 ~",
-      " 隔壁班的【haru】 ~",
-      "来自 pika 的 小迷妹 ~",
-      "来自 Potion Maker 的 Pio 酱 ~",
-      "来自 Potion Maker 的 Tia 酱 ~",
-      "来自 Bilibili Live 的 22 哦 ~",
+    " 隔壁班的【haru】 ~",
+    "来自 pika 的 小迷妹 ~",
+    "来自 Potion Maker 的 Tia 酱 ~",
+    "来自 Potion Maker 的 Pio 酱 ~",
+    " 坐对面桌的【Epsilon】 ~",
+      "来自 Bilibili Live 的 keino 哦 ~",
       "来自 Bilibili Live 的 33 的说",
       "Shizuku Talk ！这里是 Shizuku ~",
       "Nep! Nep! 超次元naki"

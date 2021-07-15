@@ -202,7 +202,7 @@ function loadWidget(config) {
 	})();
 
 	async function loadModelList() {
-		console.log(1)
+		console.log('cdnPath',cdnPath);
 		const response = await fetch(`${cdnPath}model_list.json`);
 		modelList = await response.json();
 	}
