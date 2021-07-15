@@ -1,0 +1,53 @@
+{
+  "version":"1.0.0",
+  "model":"moc/izumi_illust.moc",
+  "textures":[
+      "moc/izumi_illust.1024/texture_00.png",
+      "moc/izumi_illust.1024/texture_01.png",
+      "moc/izumi_illust.1024/texture_02.png",
+      "moc/izumi_illust.1024/texture_03.png"
+  ],
+  "physics": "physics.json",
+  "hit_areas_custom":{
+        "head_x":[-0.35, 0.6],
+        "head_y":[0.19, -0.2],
+        "body_x":[-0.3, -0.25],
+        "body_y":[0.3, -0.9]
+    },
+  "motions":{
+      "idle":[
+          {
+              "file":"mtn/idle_01.mtn"
+          },
+          {
+              "file":"mtn/idle_02.mtn"
+          },
+          {
+              "file":"mtn/idle_03.mtn"
+          },
+          {
+              "file":"mtn/idle_04.mtn"
+          }
+      ],
+      "tap_body": [
+        {"dialogue": 11, "sound": "snd/01.mp3", "file": "mtn/izumi_01.mtn"},
+        {"dialogue": 13, "sound": "snd/02.mp3", "file": "mtn/izumi_02.mtn"},
+        {"dialogue": 90, "sound": "snd/03.mp3", "file": "mtn/izumi_03.mtn"},
+        {"dialogue": 93, "sound": "snd/04.mp3", "file": "mtn/izumi_04.mtn"},
+        {"dialogue": 94, "sound": "snd/05.mp3", "file": "mtn/izumi_05.mtn"},
+        {"dialogue": 94, "sound": "snd/06.mp3", "file": "mtn/izumi_06.mtn"},
+        {"dialogue": 94, "sound": "snd/07.mp3", "file": "mtn/izumi_07.mtn"},
+        {"dialogue": 94, "sound": "snd/08.mp3", "file": "mtn/izumi_08.mtn"},
+        {"dialogue": 94, "sound": "snd/09.mp3", "file": "mtn/izumi_09.mtn"},
+        {"dialogue": 94, "sound": "snd/10.mp3", "file": "mtn/izumi_10.mtn"}
+    ]
+  },
+  "expressions": [
+        {"name": "normal", "file": "expressions/../../izumi/exp/f01.exp.json"},
+        {"name": "happy", "file": "expressions/../../izumi/exp/f02.exp.json"},
+        {"name": "unhappy", "file": "expressions/../../izumi/exp/f03.exp.json"},
+        {"name": "kira", "file": "expressions/../../izumi/exp/f04.exp.json"},
+        {"name": "deformed", "file": "expressions/../../izumi/exp/f05.exp.json"},
+        {"name": "enjoy", "file": "expressions/../../izumi/exp/f06.exp.json"}
+    ]
+}
