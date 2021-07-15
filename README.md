@@ -38,12 +38,13 @@ Font Awesome (v4 or v5) is required for this plugin. Take Font Awesome v4 as an 
 ```xml
 <script src="./live2d/autoload.js"></script>
 ```
+
 如果网站启用了 PJAX，由于看板娘不必每页刷新，因此要注意将相关脚本放到 PJAX 刷新区域之外。
 
 换句话说，如果你是小白，或者只需要最基础的功能，就只用把这一行代码，连同前面加载 Font Awesome 的一行代码，一起放到 html 的 `<head>` 中即可。  
 对于用各种模版引擎（例如 Nunjucks，Jinja 或者 PHP）生成的页面，也要自行修改，方法类似，只是可能略为麻烦。以 [Hexo](https://hexo.io) 为例，需要在主题相关的 ejs 或 njk 模版中正确配置路径，才可以加载。
 
----
+
 此项目基于我自己的静态博客修改而来，不能直接开箱即用，建议自己拷贝一份DIY。我们强烈推荐自己进行配置，否则很多功能是不完整的，并且可能产生问题！**  
 如果你有兴趣自己折腾的话，请看下面的详细说明。
 
