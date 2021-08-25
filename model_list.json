@@ -24,6 +24,7 @@
       "bilibili-live/keino/13",
       "bilibili-live/keino/14"
     ],
+    "umaru",
     "bilibili-live/33",
     [
         "ShizukuTalk/shizuku-48",
@@ -50,7 +51,9 @@
         "HyperdimensionNeptunia/nepgearswim",
         "HyperdimensionNeptunia/histoire",
         "HyperdimensionNeptunia/histoirenohover"
-    ]
+    ],
+    "aoba",
+    "remu"
   ],
   "messages": [
     " 隔壁班的【haru】 ~",
@@ -58,9 +61,12 @@
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
     " 坐对面桌的【Epsilon】 ~",
-      "来自 Bilibili Live 的 keino 哦 ~",
-      "来自 Bilibili Live 的 33 的说",
-      "Shizuku Talk ！这里是 Shizuku ~",
-      "Nep! Nep! 超次元naki"
+    "来自 Bilibili Live 的 keino 哦 ~",
+    "$_$ 小埋",
+    "来自 Bilibili Live 的 33 的说",
+    "Shizuku Talk ！这里是 Shizuku ~",
+    "Nep! Nep! 超次元naki",
+    " 凉风清液 -.0 ",
+    " 雷姆"
   ]
 }

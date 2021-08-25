@@ -124,7 +124,13 @@
 		"text": ["这是我的以太坊经典钱包！", "感谢老板🙏"]
 	}, {
 		"selector": "a[data-type=callisto]",
-		"text": ["这是我的CLO币钱包！", "感谢老板🙏"]
+		"text": ["这是我的CLO钱包！", "感谢老板🙏"]
+	}, {
+		"selector": "a[data-type=dogcoin]",
+		"text": ["这是我的狗币钱包！", "感谢老板🙏"]
+	}, {
+		"selector": "a[data-type=eth]",
+		"text": ["这是我的以太坊钱包！", "感谢老板🙏"]
 	}, {
 		"selector": "#needsharebutton-postbottom .btn",
 		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
