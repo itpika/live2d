@@ -1,5 +1,6 @@
 {
   "models": [
+    "sagiri",
     [
       "haru01",
       "haru02"
@@ -7,6 +8,7 @@
     "izumi",
     "Potion-Maker/Tia",
     "Potion-Maker/Pio",
+    "katou_01",
     "epsilon2.1",
     [
       "bilibili-live/keino/1",
@@ -53,13 +55,20 @@
         "HyperdimensionNeptunia/histoirenohover"
     ],
     "aoba",
-    "remu"
+    "remu",
+    [
+      "lyhx/1001",
+      "lyhx/1002",
+      "lyhx/1003"
+    ]
   ],
   "messages": [
+    " 隔壁班的【haru】 ~",
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
+    " 加藤惠",
     " 坐对面桌的【Epsilon】 ~",
     "来自 Bilibili Live 的 keino 哦 ~",
     "$_$ 小埋",
@@ -67,6 +76,7 @@
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元naki",
     " 凉风清液 -.0 ",
-    " 雷姆"
+    " 雷姆",
+    " 罗亚幻想"
   ]
 }
