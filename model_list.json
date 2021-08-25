@@ -1,11 +1,16 @@
 {
   "models": [
-    "sagiri",
+    ["casual/summer","casual/school_winter","casual/normal"],
+    "214_school_winter_s2",
     [
       "haru01",
       "haru02"
     ],
     "izumi",
+    [
+      "zjsn/248_1",
+      "zjsn/209_2"
+    ],
     "Potion-Maker/Tia",
     "Potion-Maker/Pio",
     "katou_01",
@@ -54,18 +59,14 @@
         "HyperdimensionNeptunia/histoire",
         "HyperdimensionNeptunia/histoirenohover"
     ],
-    "aoba",
-    "remu",
-    [
-      "lyhx/1001",
-      "lyhx/1002",
-      "lyhx/1003"
-    ]
+    "remu"
   ],
   "messages": [
-    " 隔壁班的【haru】 ~",
+    " 茉咖",
+    " 茉咖",
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
+    " 战舰少女~",
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
     " 加藤惠",
@@ -75,8 +76,6 @@
     "来自 Bilibili Live 的 33 的说",
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元naki",
-    " 凉风清液 -.0 ",
-    " 雷姆",
-    " 罗亚幻想"
+    " 雷姆"
   ]
 }

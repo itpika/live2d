@@ -1,0 +1,71 @@
+{
+  "type":"Live2D Model Setting",
+  "name":"haru",
+  "model":"Gt_other-10.moc",
+  "textures":[
+      "texture_00.png",
+      "../texture_01.png"
+  ],
+  "physics":"Gt_other-10.physics",
+  "hit_areas_custom":{
+		"head_x":[-0.5, 0.3],
+		"head_y":[3, -0.8],
+		"body_x":[-0.3, -0.25],
+		"body_y":[0.3, -0.9]
+	},
+  "layout":{
+      "center_x":0,
+      "y":1.3,
+      "width":2.2
+  },
+  "hit_areas":[
+    {
+        "name":"head",
+        "id":"D_REF.HEAD"
+    },
+    {
+        "name":"body",
+        "id":"D_REF.BODY"
+    }
+],
+  "motions":{
+    "idle":[
+        {"file":"../motions/angry01.mtn"},
+        {"file":"../motions/cry01.mtn"},
+        {"file":"../motions/idle01.mtn"},
+        {"file":"../motions/kime01.mtn"},
+        {"file":"../motions/nf_left01.mtn"},
+        {"file":"../motions/nf01.mtn"},
+        {"file":"../motions/nf02.mtn"},
+        {"file":"../motions/nf03.mtn"},
+        {"file":"../motions/nf04.mtn"},
+        {"file":"../motions/nf05.mtn"},
+        {"file":"../motions/pui01.mtn"},
+        {"file":"../motions/sad01.mtn"},
+        {"file":"../motions/serious01.mtn"},
+        {"file":"../motions/smile01.mtn"},
+        {"file":"../motions/smile02.mtn"},
+        {"file":"../motions/surprised01.mtn"},
+        {"file":"../motions/wink01.mtn"}
+    ],
+    "tap_body":[
+      {"file":"../motions/angry01.mtn"},
+      {"file":"../motions/cry01.mtn"},
+      {"file":"../motions/idle01.mtn"},
+      {"file":"../motions/kime01.mtn"},
+      {"file":"../motions/nf_left01.mtn"},
+      {"file":"../motions/nf01.mtn"},
+      {"file":"../motions/nf02.mtn"},
+      {"file":"../motions/nf03.mtn"},
+      {"file":"../motions/nf04.mtn"},
+      {"file":"../motions/nf05.mtn"},
+      {"file":"../motions/pui01.mtn"},
+      {"file":"../motions/sad01.mtn"},
+      {"file":"../motions/serious01.mtn"},
+      {"file":"../motions/smile01.mtn"},
+      {"file":"../motions/smile02.mtn"},
+      {"file":"../motions/suprised01.mtn"},
+      {"file":"../motions/wink01.mtn"}
+  ]
+  }
+}
