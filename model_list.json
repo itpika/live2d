@@ -1,7 +1,6 @@
 {
   "models": [
-    
-    ["haru01","haru02"],
+    ["haru/01","haru/02"],
     "izumi",
     ["rimi/normal","rimi/furisode","rimi/normal02","rimi/school",
       "rimi/winter","rimi/halloween","rimi/school_winter","rimi/summer",
@@ -16,6 +15,7 @@
     "epsilon2.1",
     ["casual/summer","casual/school_winter","casual/normal"],
     "z16",
+    ["reo/01","reo/02","reo/03","reo/04","reo/05"],
     [
       "bilibili-live/keino/1",
       "bilibili-live/keino/3",
@@ -76,6 +76,7 @@
     " 坐对面桌的【Epsilon】 ~",
     " 献吖吖",
     "米雪衣",
+    "小泡芙",
     "来自 Bilibili Live 的 keino 哦 ~",
     "$_$ 小埋",
     "来自 Bilibili Live 的 33 的说",
