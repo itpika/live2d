@@ -1,21 +1,19 @@
 {
   "models": [
-    "xinxiya",
     [
       "haru01",
       "haru02"
     ],
     "izumi",
-    [
-      "zjsn/248_1",
-      "zjsn/209_2"
-    ],
+    ["rimi/normal","rimi/school","rimi/winter","rimi/halloween","rimi/school_winter","rimi/summer"],
+    ["zjsn/248_1","zjsn/209_2"],
     "Potion-Maker/Tia",
     "Potion-Maker/Pio",
     "214_school_winter_s2",
     "katou_01",
     "epsilon2.1",
     ["casual/summer","casual/school_winter","casual/normal"],
+    "z16",
     [
       "bilibili-live/keino/1",
       "bilibili-live/keino/3",
@@ -65,9 +63,9 @@
     "remu"
   ],
   "messages": [
-    "siluokayi",
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
+    "汝蜜",
     " 战舰少女~",
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
@@ -75,6 +73,7 @@
     " 加藤惠",
     " 坐对面桌的【Epsilon】 ~",
     " 献吖吖",
+    "米雪衣",
     "来自 Bilibili Live 的 keino 哦 ~",
     "$_$ 小埋",
     "来自 Bilibili Live 的 33 的说",
