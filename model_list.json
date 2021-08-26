@@ -2,20 +2,21 @@
   "models": [
     ["haru/01","haru/02"],
     "izumi",
+    "Potion-Maker/Tia",
+    "Potion-Maker/Pio",
+    "madierda",
     ["rimi/normal","rimi/furisode","rimi/normal02","rimi/school",
       "rimi/winter","rimi/halloween","rimi/school_winter","rimi/summer",
       "rimi/halloween02","rimi/school_summer02","rimi/school_summer03",
-      "rimi/school_winter02","rimi/school_winter03","rimi/summer02","rimi/winter02"
+      "rimi/school_winter02","rimi/school_winter03","rimi/summer02","rimi/winter02",
+      "rimi/01","rimi/02","rimi/03","rimi/05","rimi/06","rimi/07","rimi/08",
+      "rimi/011","rimi/022","rimi/033","rimi/055","rimi/044","rimi/09"
     ],
     ["zjsn/248_1","zjsn/209_2"],
-    "Potion-Maker/Tia",
-    "Potion-Maker/Pio",
-    "214_school_winter_s2",
     "katou_01",
     "epsilon2.1",
     ["casual/summer","casual/school_winter","casual/normal"],
     "z16",
-    ["reo/01","reo/02","reo/03","reo/04","reo/05"],
     [
       "bilibili-live/keino/1",
       "bilibili-live/keino/3",
@@ -61,21 +62,19 @@
         "HyperdimensionNeptunia/histoire",
         "HyperdimensionNeptunia/histoirenohover"
     ],
-    "madierda",
     "remu"
   ],
   "messages": [
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
-    "汝蜜",
-    " 战舰少女~",
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
-    " 茉咖",
+    "拉芙尔",
+    "汝蜜",
+    " 战舰少女~",
     " 加藤惠",
     " 坐对面桌的【Epsilon】 ~",
     " 献吖吖",
-    "米雪衣",
     "小泡芙",
     "来自 Bilibili Live 的 keino 哦 ~",
     "$_$ 小埋",
@@ -83,7 +82,6 @@
     " 宝石物语",
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元naki",
-    "拉芙尔",
     " 雷姆"
 
   ]

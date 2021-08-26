@@ -21,18 +21,12 @@
     },
   "motions":{
       "idle":[
-          {
-              "file":"mtn/idle_01.mtn"
-          },
-          {
-              "file":"mtn/idle_02.mtn"
-          },
-          {
-              "file":"mtn/idle_03.mtn"
-          },
-          {
-              "file":"mtn/idle_04.mtn"
-          }
+        {"dialogue": 11, "sound": "snd/01.mp3", "file": "mtn/izumi_01.mtn"},
+        {"dialogue": 13, "file": "mtn/izumi_02.mtn"},
+        {"dialogue": 90, "file": "mtn/izumi_03.mtn"},
+        {"dialogue": 93, "file": "mtn/izumi_04.mtn"},
+        {"dialogue": 94, "file": "mtn/izumi_05.mtn"},
+        {"dialogue": 94, "sound": "snd/10.mp3", "file": "mtn/izumi_10.mtn"}
       ],
       "tap_body": [
         {"dialogue": 11, "sound": "snd/01.mp3", "file": "mtn/izumi_01.mtn"},
