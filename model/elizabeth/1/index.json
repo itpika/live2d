@@ -1,0 +1,39 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "elizabeth_8",
+	"model": "model.moc",
+	"textures": [
+		"model.2048/texture_00.png",
+		"model.2048/texture_01.png"
+	],
+	"response_rate":1.5,
+	"layout":
+	{
+		"center_x":0.04,
+		"center_y":-0.55,
+		"width":3.56
+	},
+	"hit_areas_custom":{
+    "head_x":[-0.35, 0.6],
+    "head_y":[0.19, -0.2],
+    "body_x":[-0.3, -0.25],
+    "body_y":[0.3, -0.9]
+},
+	"motions":
+	{
+		"idle":
+		[
+			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji2.mtn","sound":"sound/suiji2.mp3","fade_in":0,"fade_out":0},
+			{"file":"motions/dianji.mtn","sound":"sound/dianji.mp3","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji.mtn","sound":"sound/suiji.mp3","fade_in":0,"fade_out":0}
+		],
+		"tap_body":
+		[
+			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji2.mtn","sound":"sound/suiji2.mp3","fade_in":0,"fade_out":0},
+			{"file":"motions/dianji.mtn","sound":"sound/dianji.mp3","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji.mtn","sound":"sound/suiji.mp3","fade_in":0,"fade_out":0}
+		]
+	}
+}

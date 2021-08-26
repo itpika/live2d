@@ -1,7 +1,6 @@
 {
   "models": [
-    ["casual/summer","casual/school_winter","casual/normal"],
-    "214_school_winter_s2",
+    "029",
     [
       "haru01",
       "haru02"
@@ -13,8 +12,10 @@
     ],
     "Potion-Maker/Tia",
     "Potion-Maker/Pio",
+    "214_school_winter_s2",
     "katou_01",
     "epsilon2.1",
+    ["casual/summer","casual/school_winter","casual/normal"],
     [
       "bilibili-live/keino/1",
       "bilibili-live/keino/3",
@@ -33,6 +34,7 @@
     ],
     "umaru",
     "bilibili-live/33",
+    ["elizabeth/1","elizabeth/2"],
     [
         "ShizukuTalk/shizuku-48",
         "ShizukuTalk/shizuku-pajama"
@@ -62,18 +64,20 @@
     "remu"
   ],
   "messages": [
-    " 茉咖",
-    " 茉咖",
+    "bronya",
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
     " 战舰少女~",
     "来自 Potion Maker 的 Tia 酱 ~",
     "来自 Potion Maker 的 Pio 酱 ~",
+    " 茉咖",
     " 加藤惠",
     " 坐对面桌的【Epsilon】 ~",
+    " 献吖吖",
     "来自 Bilibili Live 的 keino 哦 ~",
     "$_$ 小埋",
     "来自 Bilibili Live 的 33 的说",
+    " 宝石物语",
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元naki",
     " 雷姆"
