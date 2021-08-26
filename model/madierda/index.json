@@ -1,0 +1,81 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "model.moc",
+  "textures": [
+    "model.2048/texture_00.png"
+  ],
+  "layout":{
+    "center_x":0,
+    "y":3.1,  
+    "width":2.9
+},
+  "hit_areas": [
+  ],
+  "hit_areas_custom":{
+    "head_x":[-0.35, 0.6],
+    "head_y":[0.19, -0.2],
+    "body_x":[-0.3, -0.25],
+    "body_y":[0.3, -0.9]
+},
+  "motions": {
+    "idle": [
+      {"file": "motions/idle/idle1.mtn"},
+      {"file": "motions/idle/idle2.mtn"},
+      {"file": "motions/idle/idle3.mtn"},
+      {
+        "file": "motions/idle/idle4.mtn"
+      },
+      {
+        "file": "motions/idle/idle-j25.mtn"
+      },
+      {
+        "file": "motions/idle/idle-j27.mtn"
+      },
+      {
+        "file": "motions/idle/idle-j29.mtn"
+      },
+      {
+        "file": "motions/idle/idle-j32.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/tap_A/tap1.mtn",
+        "sound": "voice/madierda35.mp3"
+      },
+      {
+        "file": "motions/tap_A/tap-j26.mtn",
+        "sound": "voice/madierda07.mp3"
+      },
+      {
+        "file": "motions/tap_A/tap-j28.mtn",
+        "sound": "voice/madierda09.mp3"
+      },
+      {
+        "file": "motions/tap_A/tap-j30.mtn",
+        "sound": "voice/madierda21.mp3"
+      },
+      {
+        "file": "motions/tap_A/tap-j33.mtn",
+        "sound": "voice/madierda22.mp3"
+      },
+      {
+        "file": "motions/tap_A/tap-j34.mtn",
+        "sound": "voice/madierda31.mp3"
+      },
+      {
+        "file": "motions/tap_B/tap2.mtn",
+        "sound": "voice/madierda43.mp3"
+      },
+      {
+        "file": "motions/tap_B/tap-j31.mtn",
+        "sound": "voice/madierda11.mp3"
+      },
+      {
+        "file": "motions/tap_C/tap3.mtn",
+        "sound": "voice/madierda25.mp3"
+      }
+    ]
+  },
+  "physics": "physics.json"
+}

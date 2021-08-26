@@ -1,6 +1,6 @@
 {
   "models": [
-    "029",
+    "xinxiya",
     [
       "haru01",
       "haru02"
@@ -61,10 +61,11 @@
         "HyperdimensionNeptunia/histoire",
         "HyperdimensionNeptunia/histoirenohover"
     ],
+    "madierda",
     "remu"
   ],
   "messages": [
-    "bronya",
+    "siluokayi",
     " 隔壁班的【haru】 ~",
     "来自 pika 的 小迷妹 ~",
     " 战舰少女~",
@@ -80,6 +81,8 @@
     " 宝石物语",
     "Shizuku Talk ！这里是 Shizuku ~",
     "Nep! Nep! 超次元naki",
+    "拉芙尔",
     " 雷姆"
+
   ]
 }
