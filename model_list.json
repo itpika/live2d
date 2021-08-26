@@ -1,11 +1,13 @@
 {
   "models": [
-    [
-      "haru01",
-      "haru02"
-    ],
+    
+    ["haru01","haru02"],
     "izumi",
-    ["rimi/normal","rimi/school","rimi/winter","rimi/halloween","rimi/school_winter","rimi/summer"],
+    ["rimi/normal","rimi/furisode","rimi/normal02","rimi/school",
+      "rimi/winter","rimi/halloween","rimi/school_winter","rimi/summer",
+      "rimi/halloween02","rimi/school_summer02","rimi/school_summer03",
+      "rimi/school_winter02","rimi/school_winter03","rimi/summer02","rimi/winter02"
+    ],
     ["zjsn/248_1","zjsn/209_2"],
     "Potion-Maker/Tia",
     "Potion-Maker/Pio",

@@ -1,0 +1,77 @@
+{
+  "version":"1.0.0",
+  "model":"index.moc",
+  "textures":[
+      "texture_00.png"
+  ],
+  "layout":{
+      "center_x":0,
+      "y":1.47,
+      "width":2.05
+  },
+  "hit_areas_custom":{
+    "head_x":[-0.35, 0.6],
+    "head_y":[0.19, -0.2],
+    "body_x":[-0.3, -0.25],
+    "body_y":[0.3, -0.9]
+},
+  "motions":{
+      "idle":[
+          {"file":"motions/angry01.mtn"},
+          {"file":"motions/bye01.mtn"},
+          {"file":"motions/chuni01.mtn"},
+          {"file":"motions/chuni02.mtn"},
+          {"file":"motions/cry01.mtn"},
+          {"file":"motions/eeto01.mtn"},
+          {"file":"motions/gattsu01.mtn"},
+          {"file":"motions/idle01.mtn"},
+          {"file":"motions/idle02.mtn"},
+          {"file":"motions/jaan01.mtn"},
+          {"file":"motions/kime01.mtn"},
+          {"file":"motions/nf_left01.mtn"},
+          {"file":"motions/nf_right01.mtn"},
+          {"file":"motions/nf01.mtn"},
+          {"file":"motions/nf02.mtn"},
+          {"file":"motions/nf03.mtn"},
+          {"file":"motions/nf04.mtn"},
+          {"file":"motions/nf05.mtn"},
+          {"file":"motions/odoodo01.mtn"},
+          {"file":"motions/sad01.mtn"},
+          {"file":"motions/serious01.mtn"},
+          {"file":"motions/shame01.mtn"},
+          {"file":"motions/smile01.mtn"},
+          {"file":"motions/smile02.mtn"},
+          {"file":"motions/smile03.mtn"},
+          {"file":"motions/surprised01.mtn"}
+      ],
+      "tap_body":[
+          {"file":"motions/angry01.mtn"},
+          {"file":"motions/bye01.mtn"},
+          {"file":"motions/chuni01.mtn"},
+          {"file":"motions/chuni02.mtn"},
+          {"file":"motions/cry01.mtn"},
+          {"file":"motions/eeto01.mtn"},
+          {"file":"motions/gattsu01.mtn"},
+          {"file":"motions/idle01.mtn"},
+          {"file":"motions/idle02.mtn"},
+          {"file":"motions/jaan01.mtn"},
+          {"file":"motions/kime01.mtn"},
+          {"file":"motions/nf_left01.mtn"},
+          {"file":"motions/nf_right01.mtn"},
+          {"file":"motions/nf01.mtn"},
+          {"file":"motions/nf02.mtn"},
+          {"file":"motions/nf03.mtn"},
+          {"file":"motions/nf04.mtn"},
+          {"file":"motions/nf05.mtn"},
+          {"file":"motions/odoodo01.mtn"},
+          {"file":"motions/sad01.mtn"},
+          {"file":"motions/serious01.mtn"},
+          {"file":"motions/shame01.mtn"},
+          {"file":"motions/smile01.mtn"},
+          {"file":"motions/smile02.mtn"},
+          {"file":"motions/smile03.mtn"},
+          {"file":"motions/surprised01.mtn"}
+      ]
+  },
+  "physics":"index.physics"
+}
